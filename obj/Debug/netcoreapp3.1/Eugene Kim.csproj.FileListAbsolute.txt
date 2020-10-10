@@ -1,0 +1,13 @@
+C:\Users\Eugene Kim\abcd\bin\Debug\netcoreapp3.1\Eugene Kim.exe
+C:\Users\Eugene Kim\abcd\bin\Debug\netcoreapp3.1\Eugene Kim.deps.json
+C:\Users\Eugene Kim\abcd\bin\Debug\netcoreapp3.1\Eugene Kim.runtimeconfig.json
+C:\Users\Eugene Kim\abcd\bin\Debug\netcoreapp3.1\Eugene Kim.runtimeconfig.dev.json
+C:\Users\Eugene Kim\abcd\bin\Debug\netcoreapp3.1\Eugene Kim.dll
+C:\Users\Eugene Kim\abcd\bin\Debug\netcoreapp3.1\Eugene Kim.pdb
+C:\Users\Eugene Kim\abcd\obj\Debug\netcoreapp3.1\Eugene Kim.csprojAssemblyReference.cache
+C:\Users\Eugene Kim\abcd\obj\Debug\netcoreapp3.1\Eugene Kim.AssemblyInfoInputs.cache
+C:\Users\Eugene Kim\abcd\obj\Debug\netcoreapp3.1\Eugene Kim.AssemblyInfo.cs
+C:\Users\Eugene Kim\abcd\obj\Debug\netcoreapp3.1\Eugene Kim.csproj.CoreCompileInputs.cache
+C:\Users\Eugene Kim\abcd\obj\Debug\netcoreapp3.1\Eugene Kim.dll
+C:\Users\Eugene Kim\abcd\obj\Debug\netcoreapp3.1\Eugene Kim.pdb
+C:\Users\Eugene Kim\abcd\obj\Debug\netcoreapp3.1\Eugene Kim.genruntimeconfig.cache
